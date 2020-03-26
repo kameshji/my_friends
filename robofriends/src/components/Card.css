@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Strawberry Shortcake Supplement Logo Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Strawberry Shortcake Supplement Logo Regular'), url('Strawberry Shortcake Supplement Logo.woff') format('woff');
+    }
+
+
+
+.username{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Strawberry Shortcake Supplement Logo Regular';
+    letter-spacing: 2px;
+}
+
